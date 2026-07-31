@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300">
+<rect width="1400" height="300" fill="#0d1117"/>
+<path d="M0 235 L210 65 L360 235 L520 95 L690 235 L850 55 L1040 235 L1190 90 L1400 235" fill="none" stroke="#21262d" stroke-width="2"/>
+<path d="M0 260 H1400" stroke="#30363d"/>
+<text x="70" y="118" fill="#58a6ff" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">ABEL BENEDICT</text>
+<text x="72" y="164" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="24">CYBERSECURITY • DFIR • RED TEAM • CYBERSPACE ANALYSIS</text>
+<text x="72" y="207" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="16">Investigate. Simulate. Hunt. Reconstruct. Automate.</text>
+<text x="1250" y="180" fill="#58a6ff" font-family="monospace" font-size="54" text-anchor="middle">01</text>
+<text x="1250" y="207" fill="#8b949e" font-family="monospace" font-size="13" text-anchor="middle">CYBER LAB</text>
+</svg>

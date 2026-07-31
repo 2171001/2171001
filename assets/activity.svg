@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="260" viewBox="0 0 1540 260">
+<rect width="100%" height="100%" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="44" y="50" fill="#58a6ff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Repository Activity</text>
+<text x="44" y="88" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="14">Run the GitHub Actions workflow to generate the activity card.</text>
+</svg>
