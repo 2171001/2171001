@@ -1,5 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="260" viewBox="0 0 1540 260">
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1540" height="260" viewBox="0 0 1540 260">
 <rect width="100%" height="100%" rx="16" fill="#0d1117" stroke="#30363d"/>
-<text x="44" y="50" fill="#58a6ff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Repository Activity</text>
-<text x="44" y="88" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="14">Run the GitHub Actions workflow to generate the activity card.</text>
+<text x="44" y="42" fill="#58a6ff" font-family="Arial,Helvetica,sans-serif"
+font-size="25" font-weight="700">Repository Activity</text>
+<text x="44" y="64" fill="#8b949e" font-family="Arial,Helvetica,sans-serif"
+font-size="12">Most recently pushed public repositories</text>
+<text x="44" y="83" fill="#8b949e" font-family="Arial,Helvetica,sans-serif"
+font-size="11">Repository</text>
+<text x="560" y="83" fill="#8b949e" font-family="Arial,Helvetica,sans-serif"
+font-size="11">Last push</text>
+<text x="760" y="83" fill="#8b949e" font-family="Arial,Helvetica,sans-serif"
+font-size="11">Stars</text>
+
+<text x="44" y="88" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">2171001</text>
+<text x="560" y="88" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2026-07-31</text>
+<text x="760" y="88" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="111" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">custom-binary-decoder</text>
+<text x="560" y="111" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2026-07-26</text>
+<text x="760" y="111" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="134" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">PRODIGY_CS_01</text>
+<text x="560" y="134" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2026-05-06</text>
+<text x="760" y="134" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="157" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">inspect-pe</text>
+<text x="560" y="157" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2025-07-08</text>
+<text x="760" y="157" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="180" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">WHAT-I-USE</text>
+<text x="560" y="180" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2025-02-26</text>
+<text x="760" y="180" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="203" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">GlotPress</text>
+<text x="560" y="203" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2024-12-30</text>
+<text x="760" y="203" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 0</text>
+
+<text x="44" y="226" fill="#c9d1d9"
+font-family="Arial,Helvetica,sans-serif" font-size="14">Obliviscan</text>
+<text x="560" y="226" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">2024-12-30</text>
+<text x="760" y="226" fill="#8b949e"
+font-family="Arial,Helvetica,sans-serif" font-size="13">★ 3</text>
+
 </svg>
